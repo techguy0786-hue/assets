@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD Bridged ZED20",
+  "symbol": "USDT.z",
+  "type": "BEP20",
+  "address": "0xc141F72F17281B8A7f76a345DC8202730C807Db4",
+  "decimals": 18,
+  "description": "Tether USD Bridged ZED20 (USDT.z) is a stablecoin operating on the BNB Smart Chain (BEP20) designed to maintain a 1:1 peg with the US Dollar. It functions as a bridged asset intended to facilitate cross-chain interoperability, enabling users to engage in decentralized finance (DeFi) activities, remittances, and merchant payments with reduced transaction costs. The token is integrated into the Zedxion ecosystem, where it supports various decentralized applications and cross-border settlement services.",
+  "website": "https://zed-07db4.com",
+  "explorer": "https://bscscan.com/token/0xc141F72F17281B8A7f76a345DC8202730C807Db4",
+  "status": "active"
+}
